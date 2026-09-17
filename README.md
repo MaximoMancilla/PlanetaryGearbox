@@ -17,9 +17,8 @@ A two-stage planetary gearbox designed in Autodesk Fusion 360 with a theoretical
 The repository contains the CAD models and engineering drawings for the gearbox.
 
 **Documentation**
-
-View the full project documentation on Notion
+https://closed-antimatter-677.notion.site/Two-Stage-Planetary-Gearbox-CAD-3dd519f780bc80bb9abec9485c60c787
 
 **Video**
+https://youtu.be/n6641JRFeCU
 
-Watch the assembly and motion demonstration on YouTube
